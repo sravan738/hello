@@ -1,2 +1,2 @@
 
-printf("hi sravan.this is fisrt")
+print("hi sravan.this is fisrt")
